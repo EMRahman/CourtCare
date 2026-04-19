@@ -1,4 +1,4 @@
-# Wimbledon Ball Kids – Health & Logistics Assist
+# Idea for Ball Kids – Health & Logistics Assist
 
 A hidden wristband worn under the clothing wrist bands that serves two purposes: health tracking and match logistics.
 
@@ -36,4 +36,4 @@ Linked to the live scoring system so ball kids always know what's coming:
 - **No conflict** — Rolex has no digital product, so they can't object to a category they don't compete in.
 - **Duty of care** — Protecting minors makes it very difficult for anyone to push back.
 
-Wimbledon gets to lead the sport on player welfare **and** improve match operations.
+Grand slam gets to lead the sport on player welfare **and** improve match operations.
