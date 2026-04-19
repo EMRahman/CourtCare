@@ -32,7 +32,7 @@ Linked to the live scoring system so ball kids always know what's coming:
 
 ## Why It Works
 
-- **Invisible** — No screen, no branding, hidden under the clothing wrist band. Completely avoids the  sponsorship issue.
+- **Invisible** — No screen, no branding, hidden under the clothing wrist band. Completely avoids the sponsorship issue.
 - **Duty of care** — Protecting minors makes it very difficult for anyone to push back.
 
-Grand slam gets to lead the sport on player welfare **and** improve match operations.
+Grand slam gets to lead the sport on ball kids welfare **and** improve match operations.
